@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The value of cheap self-help content"
+tags: productivity self-help growth inspiration media
 ---
 
 Cheap inspirational quotes and generic self-help videos are often ridiculed - rightfully so.

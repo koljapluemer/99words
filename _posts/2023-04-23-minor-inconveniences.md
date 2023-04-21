@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The power of minor inconveniences in behavior change"
+tags: productivity self-help growth habits
 ---
 
 [Minor inconveniences](https://www.lesswrong.com/posts/reitXJgJXFzKpdKyd/beware-trivial-inconveniences) are a most powerful tool to influence behavior, including your own.

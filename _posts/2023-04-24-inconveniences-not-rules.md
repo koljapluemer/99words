@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Minor inconveniences beat hard rules"
+tags: productivity self-help growth habits rules
 ---
 
 Done right, [minor inconveniences](https://www.lesswrong.com/posts/reitXJgJXFzKpdKyd/beware-trivial-inconveniences) are [powerful]({{ site.baseurl }}{% link _posts/2023-04-23-minor-inconveniences.md %}).

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Understanding big life changes as a habit shuffle"
+tags: productivity self-help growth habits life
 ---
 
 The next time you or somebody close to you changes apartment, job, or relationship status, take a minute to observe how many habits are newly made but also broken, both big and small.

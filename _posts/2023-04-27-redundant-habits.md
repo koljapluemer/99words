@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Embracing redundant habits"
+tags: productivity self-help growth habits fitness
 ---
 
 

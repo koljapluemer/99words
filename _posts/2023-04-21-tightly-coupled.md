@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Tenet and tightly-coupled habits"
+tags: productivity self-help growth habits fitness
 ---
 
 If you have watched [Tenet](https://www.imdb.com/title/tt6723592/), you may have noticed the protagonist doing pull-ups whenever opportunity arises.

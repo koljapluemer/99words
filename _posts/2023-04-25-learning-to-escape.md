@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to do something never again"
+tags: productivity self-help growth habits behavior
 ---
 
 *Lock an organism in, and you are only teaching it to escape.*
