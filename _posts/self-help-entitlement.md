@@ -1,0 +1,1 @@
+Self-help and stoicism as a position of entitlement. Therapy video. PhilosophyTube reference to the Black philosopher.
