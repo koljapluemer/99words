@@ -1,0 +1,1 @@
+Start w/ the episode, also the painting, also Flow (?). Take a simple idea and take it seriously?

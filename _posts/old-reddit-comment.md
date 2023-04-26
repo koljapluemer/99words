@@ -1,0 +1,1 @@
+<https://old.reddit.com/r/getdisciplined/comments/1q96b5/deleted_by_user/cdah4af/>
